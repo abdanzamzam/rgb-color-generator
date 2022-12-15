@@ -3,4 +3,4 @@ This is a simple product where we can try to combine 3 colors (RGB) and see the 
 
 Preview:
 
-![https://github.com/abdanzamzam/rgb-color-generator/blob/main/preview.png](image)
+![image]([image](https://github.com/abdanzamzam/rgb-color-generator/blob/main/preview.png))
